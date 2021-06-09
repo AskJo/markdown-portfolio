@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Some of My Skills**
+
+1. _Problem Solving_
+2. _PowerShell_
+3. _Python_
+4. _Cooking_
+5. _Threat Hunting_
